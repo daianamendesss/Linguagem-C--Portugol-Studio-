@@ -1,2 +1,2 @@
-# Exerc-cios-no-Portugal-Studio
+# Exercicios-no-Portugal-Studio
 Lista 1 - Algoritmos 
